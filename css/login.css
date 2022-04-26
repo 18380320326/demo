@@ -1,0 +1,28 @@
+.max {
+    height: 1200px;
+    margin: 0 auto;
+}
+
+.bg {
+    height: 640px;
+    margin: 60px;
+    background-image: url(../img/001.jpg);
+    background-repeat: no-repeat;
+}
+
+.login-box {
+    position: relative;
+    top: -410px;
+    margin: auto;
+    width: 460px;
+    height: 285px;
+    background-color: #fff;
+}
+
+.login-head {
+    text-align: center;
+}
+
+.login-box {
+    padding: 15px;
+}
